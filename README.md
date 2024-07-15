@@ -23,24 +23,6 @@ This repository focuses on detecting vehicles from satellite imagery using state
 - **Google Colab**: Employed for running experiments and training models with GPU support.
 - **Weights & Biases**: Used for tracking experiments, visualizing results, and performing hyperparameter tuning.
 
-### How to Use
-
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/yourusername/vehicle_detection_from_satellite_imagery.git
-    ```
-2. **Install Dependencies**:
-    ```sh
-    cd vehicle_detection_from_satellite_imagery
-    pip install -r requirements.txt
-    ```
-3. **Run Training**:
-    ```sh
-    python train.py --config configs/train_config.yaml
-    ```
-4. **Hyperparameter Tuning**:
-    - Modify the `configs/hyperparams.yaml` file to experiment with different hyperparameter settings.
-    - Use the integrated hyperparameter tuning scripts to automate and optimize the tuning process.
 
 ### Contributing
 
