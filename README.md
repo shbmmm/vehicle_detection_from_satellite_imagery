@@ -33,5 +33,3 @@ We welcome contributions from the community. Please feel free to submit issues, 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
-
-Feel free to customize this description to better fit your project's specifics and goals.
