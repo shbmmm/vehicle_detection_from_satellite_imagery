@@ -1,5 +1,6 @@
 # vehicle_detection_from_satellite_imagery
-[REPOSITORY UNDER CONSTRUCTION,but feel free to check out scripts] \n
+[REPOSITORY UNDER CONSTRUCTION,but feel free to check out scripts]
+
 This repository focuses on detecting vehicles from satellite imagery using state-of-the-art (SOTA) object detection models and software. Leveraging cutting-edge techniques, the project aims to achieve high accuracy in identifying and classifying vehicles within complex satellite images.
 
 Here's a description for your GitHub repository:
