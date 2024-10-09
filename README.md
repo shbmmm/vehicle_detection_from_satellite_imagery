@@ -1,5 +1,5 @@
 # vehicle_detection_from_satellite_imagery
-[REPOSITORY UNDER CONSTRUCTION,but feel free to check out scripts]
+
 
 This repository focuses on detecting vehicles from satellite imagery using state-of-the-art (SOTA) object detection models and software. Leveraging cutting-edge techniques, the project aims to achieve high accuracy in identifying and classifying vehicles within complex satellite images.
 
@@ -9,7 +9,7 @@ Here's a description for your GitHub repository:
 
 ## vehicle_detection_from_satellite_imagery
 
-This repository focuses on detecting vehicles from satellite imagery using state-of-the-art (SOTA) object detection models and software. Leveraging cutting-edge techniques, the project aims to achieve high accuracy in identifying and classifying vehicles within complex satellite images.
+This repository focuses on detecting vehicles from satellite imagery which can be can be aquired using QGIS followed by using state-of-the-art (SOTA) object detection models and software. Leveraging cutting-edge techniques, the project aims to achieve high accuracy in identifying and classifying vehicles within complex satellite images.
 
 ### Features
 
@@ -21,9 +21,9 @@ This repository focuses on detecting vehicles from satellite imagery using state
 ### Software and Tools
 
 - **TensorFlow** and **PyTorch**: Primary deep learning frameworks used for model development and training.
-- **OpenCV**: Utilized for image processing and augmentation tasks.
+- **OGIS** : Used to load up Google satellite .tiff files and prepare a rastor followed by exporting geotagged data of the grids.
 - **Google Colab**: Employed for running experiments and training models with GPU support.
-- **Weights & Biases**: Used for tracking experiments, visualizing results, and performing hyperparameter tuning.
+
 
 
 ### Contributing
